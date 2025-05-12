@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold Name=ConcessionaireMercedes Microsoft.EntityFrameworkCore.SqlServer -o Models --context-dir Data --data-annotations

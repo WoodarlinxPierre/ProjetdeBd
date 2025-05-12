@@ -17,39 +17,79 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Concess_mercedes
 build_property.RootNamespace = Concess_mercedes
-build_property.ProjectDir = C:\Users\6235923\Downloads\Concess mercedes\
+build_property.ProjectDir = C:\Users\6235923\Downloads\ProjetdeBd\Concess mercedes\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\6235923\Downloads\Concess mercedes
+build_property.MSBuildProjectDirectory = C:\Users\6235923\Downloads\ProjetdeBd\Concess mercedes
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/6235923/Downloads/Concess mercedes/Views/Error.cshtml]
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/6235923/Downloads/Concess mercedes/Views/Index.cshtml]
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/6235923/Downloads/Concess mercedes/Views/Privacy.cshtml]
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/Modeles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/Modeles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/Modeles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/Modeles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/Modeles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/6235923/Downloads/Concess mercedes/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/6235923/Downloads/Concess mercedes/Views/_ViewImports.cshtml]
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/Voitures/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/Voitures/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/Voitures/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/Voitures/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/Voitures/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/6235923/Downloads/Concess mercedes/Views/_ViewStart.cshtml]
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/6235923/Downloads/Concess mercedes/Views/Shared/_Layout.cshtml]
+[C:/Users/6235923/Downloads/ProjetdeBd/Concess mercedes/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-kwhlw8hgs8
