@@ -1,0 +1,25 @@
+﻿@model IEnumerable<ProjetFinal__2037266.ViewModels.VoitureProcedureResult>
+<h2>Liste des Voitures</h2>
+<table class="table">
+    <thead>
+        <tr>
+
+            <th>Modèle</th>
+            <th>Prix</th>
+            <th>Kilométrage</th>
+            <th>Type de carburant</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var voiture in Model)
+        {
+            <tr>
+
+                <td>@voiture.Modele</td>
+                <td>@voiture.Prix.ToString("C")</td>
+                <td>@voiture.Kilometrage</td>
+                <td>@voiture.TypeCarburant</td>
+            </tr>
+        }
+    </tbody>
+</table>

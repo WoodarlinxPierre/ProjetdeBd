@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "ConducteurParDate";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<h2>Conducteur par date</h2>
+
+<form method="get" action="@Url.Action("Procedure")">
+    <p>Vous pouvez tester avec la valeur : 1960-01-01</p>
+    <div class="form-group">
+        <label for="dateDebut">Date de début</label>
+        <input type="date" id="dateDebut" name="dateDebut" class="form-control" required />
+    </div>
+    <br />
+    <p>Vous pouvez tester avec la valeur : 1970-12-31</p>
+    <div class="form-group">
+        <label for="dateFin">Date de fin</label>
+        <input type="date" id="dateFin" name="dateFin" class="form-control" required />
+    </div>
+    <br />
+
+    <button type="submit" class="btn btn-primary">Filtrer</button>
+</form>
+
+

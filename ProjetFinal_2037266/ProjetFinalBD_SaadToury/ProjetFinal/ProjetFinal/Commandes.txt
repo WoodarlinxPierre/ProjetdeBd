@@ -1,0 +1,25 @@
+2) Installation de Evolve Tool  (si à la maison)
+
+
+dotnet tool install --global Evolve.Tool 
+
+
+
+3) Mettre à jour pour la version prerelease qui fonctionne avec .Net 8.0
+
+
+dotnet tool update evolve.tool -g --prerelease
+
+
+
+4) Migration
+
+
+evolve migrate sqlserver -c "Data Source=.;Initial Catalog=ProjetFinalBdLeMans_2037266;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" -s racing -s ref -s users --target-version 1.6
+
+
+
+5) Scaffold
+
+
+dotnet ef dbcontext scaffold Name=ProjetFinalBdLeMans_2037266 Microsoft.EntityFrameworkCore.SqlServer -o Models --context-dir Data --context ProjetFinalBdLeMansContext --data-annotations --force

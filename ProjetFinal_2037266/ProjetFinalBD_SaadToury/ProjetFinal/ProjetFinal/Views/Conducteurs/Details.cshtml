@@ -1,0 +1,68 @@
+﻿@model ProjetFinal__2037266.ViewModels.PhotoViewModel
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1>Détails du conducteur</h1>
+
+<div>
+    <h4>Conducteur</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Photo)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="@(Model.Photo)"/>
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Conducteur.ConducteurNom)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Conducteur.ConducteurNom)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Conducteur.ConducteurPrenom)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Conducteur.ConducteurPrenom)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Conducteur.Age)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Conducteur.Age)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Conducteur.PaysOrigine)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Conducteur.PaysOrigine)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Conducteur.NombreVictoiresTotales)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Conducteur.NombreVictoiresTotales)
+        </dd>
+
+        <dt class="col-sm-2">
+            Nombre de voitures différentes gagnées
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Conducteur.NombreVoituresDifferentGagnees)
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Conducteur.ConducteurId">Modifier</a> |
+    <a asp-action="Index">Retour à la liste</a>
+</div>

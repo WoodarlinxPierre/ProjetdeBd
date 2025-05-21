@@ -1,0 +1,13 @@
+﻿using ProjetFinal__2037266.Models;
+
+namespace ProjetFinal__2037266.ViewModels
+{
+    public class PhotoViewModel
+    {
+
+        public VueConducteursVictoire Conducteur { get; set; }
+
+        public string? Photo { get; set; }
+
+    }
+}
