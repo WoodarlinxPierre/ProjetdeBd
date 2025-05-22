@@ -1,0 +1,33 @@
+﻿@model ProjetFinal__6235923.ViewModels.ConnexionViewModel
+<a asp-action="Index" asp-controller="Voitures">Retour à l'index</a>
+
+<h2 class="mb-4 text-center">Connexion</h2>
+
+<form asp-action="Connexion" class="mx-auto" style="max-width: 400px;">
+    <div asp-validation-summary="All" class="alert alert-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Adresse courriel</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger small"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Mpd" class="form-label">Mot de passe</label>
+        <input asp-for="Mpd" class="form-control" type="password" />
+        <span asp-validation-for="Mpd" class="text-danger small"></span>
+    </div>
+
+    <div class="d-grid mb-3">
+        <button type="submit" class="btn btn-primary">Se connecter</button>
+    </div>
+
+    <div class="text-center">
+        <a asp-controller="Utilisateurs" asp-action="Inscription">Créer un compte</a>
+    </div>
+</form>
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

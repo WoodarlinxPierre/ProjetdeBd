@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjetFinal__2037266
+build_property.RootNamespace = ProjetFinal__2037266
+build_property.ProjectDir = C:\Users\6235923\Downloads\ProjetdeBd\ProjetFinal_6235923\ProjetFinalBD_WoodarlinxPierre\ProjetFinal\ProjetFinal\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\6235923\Downloads\ProjetdeBd\ProjetFinal_6235923\ProjetFinalBD_WoodarlinxPierre\ProjetFinal\ProjetFinal
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/ProjetFinal_6235923/ProjetFinalBD_WoodarlinxPierre/ProjetFinal/ProjetFinal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/ProjetFinal_6235923/ProjetFinalBD_WoodarlinxPierre/ProjetFinal/ProjetFinal/Views/Utilisateurs/Connexion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJzXENvbm5leGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/ProjetFinal_6235923/ProjetFinalBD_WoodarlinxPierre/ProjetFinal/ProjetFinal/Views/Utilisateurs/Inscription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJzXEluc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/ProjetFinal_6235923/ProjetFinalBD_WoodarlinxPierre/ProjetFinal/ProjetFinal/Views/Voitures/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/ProjetFinal_6235923/ProjetFinalBD_WoodarlinxPierre/ProjetFinal/ProjetFinal/Views/Voitures/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/ProjetFinal_6235923/ProjetFinalBD_WoodarlinxPierre/ProjetFinal/ProjetFinal/Views/Voitures/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/ProjetFinal_6235923/ProjetFinalBD_WoodarlinxPierre/ProjetFinal/ProjetFinal/Views/Voitures/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/ProjetFinal_6235923/ProjetFinalBD_WoodarlinxPierre/ProjetFinal/ProjetFinal/Views/Voitures/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/ProjetFinal_6235923/ProjetFinalBD_WoodarlinxPierre/ProjetFinal/ProjetFinal/Views/Voitures/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZXNcSW5kZXgyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/ProjetFinal_6235923/ProjetFinalBD_WoodarlinxPierre/ProjetFinal/ProjetFinal/Views/Voitures/Procedure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZXNcUHJvY2VkdXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/ProjetFinal_6235923/ProjetFinalBD_WoodarlinxPierre/ProjetFinal/ProjetFinal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/6235923/Downloads/ProjetdeBd/ProjetFinal_6235923/ProjetFinalBD_WoodarlinxPierre/ProjetFinal/ProjetFinal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9d1yflci8v

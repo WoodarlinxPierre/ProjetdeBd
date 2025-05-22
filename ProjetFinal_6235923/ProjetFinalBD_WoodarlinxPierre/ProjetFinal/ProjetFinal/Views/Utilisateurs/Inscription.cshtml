@@ -1,0 +1,40 @@
+﻿@model ProjetFinal__6235923.ViewModels.InscriptionViewModel
+<a asp-action="Index" asp-controller="Voitures">Retour à l'index</a>
+
+<h2 class="mb-4 text-center">Inscription</h2>
+
+<form asp-action="Inscription" class="mx-auto" style="max-width: 450px;">
+    <div asp-validation-summary="All" class="alert alert-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Adresse courriel</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger small"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="MotDePasse" class="form-label">Mot de passe</label>
+        <input asp-for="MotDePasse" class="form-control" type="password" />
+        <span asp-validation-for="MotDePasse" class="text-danger small"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="MotDePasseConfirm" class="form-label">Confirmer le mot de passe</label>
+        <input asp-for="MotDePasseConfirm" class="form-control" type="password" />
+        <span asp-validation-for="MotDePasseConfirm" class="text-danger small"></span>
+    </div>
+
+    <div class="d-grid mb-3">
+        <button type="submit" class="btn btn-success">S'inscrire</button>
+    </div>
+
+    <div class="text-center">
+        <a asp-controller="Utilisateurs" asp-action="Connexion">Déjà un compte ? Se connecter</a>
+    </div>
+</form>
+
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

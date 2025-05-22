@@ -1,0 +1,55 @@
+﻿@model ProjetFinal__6235923.ViewModels.PhotoViewModel
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Voiture</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Photo)
+        </dt>
+        <dd class = "col-sm-10">
+            <img src="@(Model.Photo)" width="200" />
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.voiture.Versio.AnneeLancement)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.voiture.Versio.AnneeLancement)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.voiture.Versio.NbChevaux)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.voiture.Versio.NbChevaux)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.voiture.Kilometrage)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.voiture.Kilometrage)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.voiture.Prix)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.voiture.Prix)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.voiture.Disponible)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.voiture.Disponible)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.voiture.VoitureId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

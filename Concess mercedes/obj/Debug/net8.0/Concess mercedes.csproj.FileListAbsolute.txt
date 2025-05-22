@@ -1,8 +1,0 @@
-C:\Users\6235923\Downloads\Concess mercedes\obj\Debug\net8.0\Concess mercedes.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\6235923\Downloads\Concess mercedes\obj\Debug\net8.0\Concess mercedes.AssemblyInfoInputs.cache
-C:\Users\6235923\Downloads\Concess mercedes\obj\Debug\net8.0\Concess mercedes.AssemblyInfo.cs
-C:\Users\6235923\Downloads\Concess mercedes\obj\Debug\net8.0\Concess mercedes.csproj.CoreCompileInputs.cache
-C:\Users\6235923\Downloads\Concess mercedes\obj\Debug\net8.0\Concess mercedes.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\6235923\Downloads\Concess mercedes\obj\Debug\net8.0\Concess mercedes.RazorAssemblyInfo.cache
-C:\Users\6235923\Downloads\Concess mercedes\obj\Debug\net8.0\Concess mercedes.RazorAssemblyInfo.cs
-C:\Users\6235923\Downloads\Concess mercedes\obj\Debug\net8.0\Concess mercedes.csproj.AssemblyReference.cache

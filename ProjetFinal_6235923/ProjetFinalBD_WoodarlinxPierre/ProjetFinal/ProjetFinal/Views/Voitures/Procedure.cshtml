@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ProjetFinal__6235923.ViewModels.VoitureProcedureResult>
+<h2 class="mb-4 text-center text-primary">🚗 Liste des Voitures Disponibles</h2>
+
+<div class="table-responsive">
+    <table class="table table-striped table-hover table-bordered align-middle shadow rounded">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">Modèle</th>
+                <th scope="col">Prix</th>
+                <th scope="col">Kilométrage</th>
+                <th scope="col">Type de carburant</th>
+                <th scope="col">Catégorie</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var voiture in Model)
+            {
+                <tr>
+                    <td><strong>@voiture.Modele</strong></td>
+                    <td class="text-success">@voiture.Prix.ToString("C")</td>
+                    <td>@voiture.Kilometrage.ToString("N0") km</td>
+                    <td>@voiture.TypeCarburant</td>
+                    <td><span class="badge bg-secondary">@voiture.Categorie</span></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
