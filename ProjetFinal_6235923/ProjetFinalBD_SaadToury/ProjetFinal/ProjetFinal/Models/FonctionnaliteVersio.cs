@@ -6,26 +6,26 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ProjetFinal__2037266.Models;
 
-[Table("FonctionnaliteVersion", Schema = "Configuration")]
-public partial class FonctionnaliteVersion
+[Table("FonctionnaliteVersio", Schema = "Configurationn")]
+public partial class FonctionnaliteVersio
 {
     [Key]
-    [Column("FonctionnaliteVersionID")]
-    public int FonctionnaliteVersionId { get; set; }
+    [Column("FonctionnaliteVersioID")]
+    public int FonctionnaliteVersioId { get; set; }
 
     public bool EstOptionel { get; set; }
 
     [Column("FonctionnaliteID")]
     public int FonctionnaliteId { get; set; }
 
-    [Column("VersionID")]
-    public int VersionId { get; set; }
+    [Column("VersioID")]
+    public int VersioId { get; set; }
 
     [ForeignKey("FonctionnaliteId")]
-    [InverseProperty("FonctionnaliteVersions")]
+    [InverseProperty("FonctionnaliteVersios")]
     public virtual Fonctionnalite Fonctionnalite { get; set; } = null!;
 
-    [ForeignKey("VersionId")]
-    [InverseProperty("FonctionnaliteVersions")]
-    public virtual Version Version { get; set; } = null!;
+    [ForeignKey("VersioId")]
+    [InverseProperty("FonctionnaliteVersios")]
+    public virtual Versio Versio { get; set; } = null!;
 }

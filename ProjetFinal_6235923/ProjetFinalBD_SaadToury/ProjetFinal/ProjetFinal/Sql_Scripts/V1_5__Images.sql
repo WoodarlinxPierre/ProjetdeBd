@@ -34,7 +34,7 @@ GO
 INSERT INTO Voitures.ImageVoiture (VoitureID, PhotoContent)
 SELECT 1, BulkColumn
 FROM OPENROWSET(
-    BULK 'C:\Users\6235923\Downloads\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\A35.jpg',
+    BULK 'C:\Users\6235923\Downloads\ProjetdeBd\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\A35.jpg',
     SINGLE_BLOB
 ) AS myFile;
 GO
@@ -42,56 +42,56 @@ GO
 INSERT INTO Voitures.ImageVoiture (VoitureID, PhotoContent)
 SELECT 2, BulkColumn
 FROM OPENROWSET(
-    BULK 'C:\Users\6235923\Downloads\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\C63.jfif',
+    BULK 'C:\Users\6235923\Downloads\ProjetdeBd\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\C63.jfif',
     SINGLE_BLOB
 ) AS myFile;
 GO
 INSERT INTO Voitures.ImageVoiture (VoitureID, PhotoContent)
 SELECT 3, BulkColumn
 FROM OPENROWSET(
-    BULK 'C:\Users\6235923\Downloads\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\G63 gris .jfif',
+    BULK 'C:\Users\6235923\Downloads\ProjetdeBd\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\G63 gris .jfif',
     SINGLE_BLOB
 ) AS myFile;
 GO
 INSERT INTO Voitures.ImageVoiture (VoitureID, PhotoContent)
 SELECT 4, BulkColumn
 FROM OPENROWSET(
-    BULK 'C:\Users\6235923\Downloads\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\E300 bleu.jpg',
+    BULK 'C:\Users\6235923\Downloads\ProjetdeBd\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\E300 bleu.jpg',
     SINGLE_BLOB
 ) AS myFile;
 GO
 INSERT INTO Voitures.ImageVoiture (VoitureID, PhotoContent)
 SELECT 5, BulkColumn
 FROM OPENROWSET(
-    BULK 'C:\Users\6235923\Downloads\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\S500 noir.jpg',
+    BULK 'C:\Users\6235923\Downloads\ProjetdeBd\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\S500 noir.jpg',
     SINGLE_BLOB
 ) AS myFile;
 GO
 INSERT INTO Voitures.ImageVoiture (VoitureID, PhotoContent)
 SELECT 6, BulkColumn
 FROM OPENROWSET(
-    BULK 'C:\Users\6235923\Downloads\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\A180 rouge.jpg',
+    BULK 'C:\Users\6235923\Downloads\ProjetdeBd\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\A180 rouge.jpg',
     SINGLE_BLOB
 ) AS myFile;
 GO
 INSERT INTO Voitures.ImageVoiture (VoitureID, PhotoContent)
 SELECT 7, BulkColumn
 FROM OPENROWSET(
-    BULK 'C:\Users\6235923\Downloads\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\B200 gris.jpg',
+    BULK 'C:\Users\6235923\Downloads\ProjetdeBd\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\B200 gris.jpg',
     SINGLE_BLOB
 ) AS myFile;
 GO
 INSERT INTO Voitures.ImageVoiture (VoitureID, PhotoContent)
 SELECT 8, BulkColumn
 FROM OPENROWSET(
-    BULK 'C:\Users\6235923\Downloads\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\Gla250 blanc.webp',
+    BULK 'C:\Users\6235923\Downloads\ProjetdeBd\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\Gla250 blanc.webp',
     SINGLE_BLOB
 ) AS myFile;
 GO
 INSERT INTO Voitures.ImageVoiture (VoitureID, PhotoContent)
 SELECT 8, BulkColumn
 FROM OPENROWSET(
-    BULK 'C:\Users\6235923\Downloads\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\Glc300 argent.jpg',
+    BULK 'C:\Users\6235923\Downloads\ProjetdeBd\ProjetFinal_6235923\ProjetFinalBD_SaadToury\ProjetFinal\ProjetFinal\Images\Glc300 argent.jpg',
     SINGLE_BLOB
 ) AS myFile;
 GO

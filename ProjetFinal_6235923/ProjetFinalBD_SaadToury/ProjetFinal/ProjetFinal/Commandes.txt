@@ -15,11 +15,10 @@ dotnet tool update evolve.tool -g --prerelease
 4) Migration
 
 
-evolve migrate sqlserver -c "Data Source=.;Initial Catalog=ProjetFinalBdLeMans_2037266;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" -s racing -s ref -s users --target-version 1.6
-
+evolve migrate sqlserver -c "Data Source=.;Initial Catalog=ConcessionaireMercedes;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" -s Configuration -s Voitures -s users  --target-version 1.0
 
 
 5) Scaffold
 
 
-dotnet ef dbcontext scaffold Name=ProjetFinalBdLeMans_2037266 Microsoft.EntityFrameworkCore.SqlServer -o Models --context-dir Data --context ProjetFinalBdLeMansContext --data-annotations --force
+dotnet ef dbcontext scaffold Name=ConcessionaireMercedes Microsoft.EntityFrameworkCore.SqlServer -o Models --context-dir Data --context ConcessionaireMercedesContext --data-annotations --force

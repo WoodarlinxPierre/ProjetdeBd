@@ -1,134 +1,210 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\",
+  "WorkspaceRootPath": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\data\\concessionairemercedescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\data\\concessionairemercedescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\controllers\\utilisateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\controllers\\utilisateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\controllers\\voiturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\controllers\\voiturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\controllers\\voiturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_5__images.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_5__images.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\data\\concessionairemercedescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\data\\concessionairemercedescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\commandes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\commandes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\voitures\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\views\\voitures\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\initialcreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\initialcreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\voitures\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\views\\voitures\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\voitures\\procedure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\voitures\\procedure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\views\\voitures\\procedure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\viewmodels\\voitureprocedureresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\models\\versio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\models\\versio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\voitures\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\views\\voitures\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\voitures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\views\\voitures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\controllers\\utilisateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\controllers\\utilisateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\viewmodels\\voitureprocedureresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\viewmodels\\voitureprocedureresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_4__procedureinteressante.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_4__procedureinteressante.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_9__vuefonctions2  - copier.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_9__vuefonctions2  - copier.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\voitures\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\views\\voitures\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_8__vuefonctions2 .sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_8__vuefonctions2 .sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\viewmodels\\photoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\viewmodels\\photoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\utilisateurs\\connexion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\views\\utilisateurs\\connexion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\models\\vuestatscategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\models\\vuestatscategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\viewmodels\\connexionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\viewmodels\\connexionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\viewmodels\\inscriptionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\viewmodels\\inscriptionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_6__index.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_6__index.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_6__index.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_3__utilisateur.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_3__utilisateur.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_2__vuefonctions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_2__vuefonctions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_2__vuefonctions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\models\\fonctionnaliteversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\models\\fonctionnaliteversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_4__procedureinteressante.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_4__procedureinteressante.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\models\\fonctionnalite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\models\\vuestatscategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\models\\vuestatscategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\models\\vwrecherchervoiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\models\\vwrecherchervoiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_7__vuefonctions2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_7__vuefonctions2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\models\\fonctionnalite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\models\\fonctionnalite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_0__tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_0__tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_1__insertiondonnees.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_1__insertiondonnees.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\voitures\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\views\\voitures\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\models\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\models\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\utilisateurs\\inscription.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\views\\utilisateurs\\inscription.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\utilisateurs\\connexion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\views\\utilisateurs\\connexion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\voitures\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\views\\voitures\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\voitures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\views\\voitures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_0__tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_0__tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\initialcreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\initialcreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_5__images.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_5__images.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_3__utilisateur.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_3__utilisateur.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_1__insertiondonnees.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_1__insertiondonnees.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\commandes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\commandes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\viewmodels\\photoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\viewmodels\\photoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\viewmodels\\connexionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\viewmodels\\connexionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\viewmodels\\inscriptionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\viewmodels\\inscriptionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_4__procedureinteressante.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_4__procedureinteressante.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_5__images.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_5__images.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_5__images.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\initialcreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_6__index.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_6__index.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_3__utilisateur.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_3__utilisateur.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_0__tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_0__tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_1__insertiondonnees.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_1__insertiondonnees.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_2__vuefonctions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_2__vuefonctions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_4__procedureinteressante.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_4__procedureinteressante.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\initialcreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\initialcreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\initialcreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\initialcreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
       "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\initialcreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_7__vuefonctions2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_7__vuefonctions2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_8__vuefonctions2 .sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_8__vuefonctions2 .sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|c:\\users\\6235923\\downloads\\projetdebd\\projetfinal_6235923\\projetfinalbd_saadtoury\\projetfinal\\projetfinal\\sql_scripts\\v1_9__vuefonctions2  - copier.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{DEBCE483-343F-43B9-AA99-011ED77BB0EB}|ProjetFinal\\ProjetFinal__2037266.csproj|solutionrelative:projetfinal\\sql_scripts\\v1_9__vuefonctions2  - copier.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,143 +214,155 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index2.cshtml",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Index2.cshtml",
-              "RelativeDocumentMoniker": "ProjetFinal\\Views\\Voitures\\Index2.cshtml",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Index2.cshtml",
-              "RelativeToolTip": "ProjetFinal\\Views\\Voitures\\Index2.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T22:12:31.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\appsettings.json",
-              "RelativeDocumentMoniker": "ProjetFinal\\appsettings.json",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\appsettings.json",
-              "RelativeToolTip": "ProjetFinal\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-05T13:17:04.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Commandes.txt",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Commandes.txt",
-              "RelativeDocumentMoniker": "ProjetFinal\\Commandes.txt",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Commandes.txt",
-              "RelativeToolTip": "ProjetFinal\\Commandes.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAACfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-13T12:03:00.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "V1_5__Images.sql ",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_5__Images.sql",
-              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_5__Images.sql",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_5__Images.sql",
-              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_5__Images.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-12T14:21:44.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "VoituresController.cs",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Controllers\\VoituresController.cs",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Controllers\\VoituresController.cs",
               "RelativeDocumentMoniker": "ProjetFinal\\Controllers\\VoituresController.cs",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Controllers\\VoituresController.cs",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Controllers\\VoituresController.cs",
               "RelativeToolTip": "ProjetFinal\\Controllers\\VoituresController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAQwH0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T16:42:52.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
+              "Title": "V1_6__Index.sql ",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_6__Index.sql",
+              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_6__Index.sql",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_6__Index.sql",
+              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_6__Index.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-13T13:36:40.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjetFinal\\Views\\Voitures\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Edit.cshtml",
+              "RelativeToolTip": "ProjetFinal\\Views\\Voitures\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T16:43:32.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "V1_9__VueFonctions2  - Copier.sql ",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_9__VueFonctions2  - Copier.sql",
+              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_9__VueFonctions2  - Copier.sql",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_9__VueFonctions2  - Copier.sql",
+              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_9__VueFonctions2  - Copier.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-22T18:24:13.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Procedure.cshtml",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Procedure.cshtml",
+              "RelativeDocumentMoniker": "ProjetFinal\\Views\\Voitures\\Procedure.cshtml",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Procedure.cshtml",
+              "RelativeToolTip": "ProjetFinal\\Views\\Voitures\\Procedure.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T22:17:41.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UtilisateursController.cs",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Controllers\\UtilisateursController.cs",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Controllers\\UtilisateursController.cs",
               "RelativeDocumentMoniker": "ProjetFinal\\Controllers\\UtilisateursController.cs",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Controllers\\UtilisateursController.cs",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Controllers\\UtilisateursController.cs",
               "RelativeToolTip": "ProjetFinal\\Controllers\\UtilisateursController.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAA7wA0AAAAmAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwEQAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T16:38:52.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetFinal\\Views\\Voitures\\Index.cshtml",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Index.cshtml",
+              "RelativeToolTip": "ProjetFinal\\Views\\Voitures\\Index.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwBMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T17:21:40.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Index2.cshtml",
+              "RelativeDocumentMoniker": "ProjetFinal\\Views\\Voitures\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Index2.cshtml",
+              "RelativeToolTip": "ProjetFinal\\Views\\Voitures\\Index2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T22:12:31.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Versio.cs",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\Versio.cs",
+              "RelativeDocumentMoniker": "ProjetFinal\\Models\\Versio.cs",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\Versio.cs",
+              "RelativeToolTip": "ProjetFinal\\Models\\Versio.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:23:42.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ConcessionaireMercedesContext.cs",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Data\\ConcessionaireMercedesContext.cs",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Data\\ConcessionaireMercedesContext.cs",
               "RelativeDocumentMoniker": "ProjetFinal\\Data\\ConcessionaireMercedesContext.cs",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Data\\ConcessionaireMercedesContext.cs",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Data\\ConcessionaireMercedesContext.cs",
               "RelativeToolTip": "ProjetFinal\\Data\\ConcessionaireMercedesContext.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAkwB8AAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvykAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T15:58:14.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index1.cshtml",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Index1.cshtml",
-              "RelativeDocumentMoniker": "ProjetFinal\\Views\\Voitures\\Index1.cshtml",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Index1.cshtml",
-              "RelativeToolTip": "ProjetFinal\\Views\\Voitures\\Index1.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T21:44:39.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "InitialCreate.sql ",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\InitialCreate.sql",
-              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\InitialCreate.sql",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\InitialCreate.sql",
-              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\InitialCreate.sql",
+              "DocumentIndex": 11,
+              "Title": "V1_8__VueFonctions2 .sql ",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_8__VueFonctions2 .sql",
+              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_8__VueFonctions2 .sql",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_8__VueFonctions2 .sql",
+              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_8__VueFonctions2 .sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-05T12:52:53.201Z",
+              "WhenOpened": "2025-05-22T18:18:48.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Program.cs",
-              "RelativeDocumentMoniker": "ProjetFinal\\Program.cs",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Program.cs",
-              "RelativeToolTip": "ProjetFinal\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T13:37:04.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "VoitureProcedureResult.cs",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ViewModels\\VoitureProcedureResult.cs",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ViewModels\\VoitureProcedureResult.cs",
               "RelativeDocumentMoniker": "ProjetFinal\\ViewModels\\VoitureProcedureResult.cs",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ViewModels\\VoitureProcedureResult.cs",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ViewModels\\VoitureProcedureResult.cs",
               "RelativeToolTip": "ProjetFinal\\ViewModels\\VoitureProcedureResult.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -283,35 +371,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Connexion.cshtml",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Utilisateurs\\Connexion.cshtml",
-              "RelativeDocumentMoniker": "ProjetFinal\\Views\\Utilisateurs\\Connexion.cshtml",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Utilisateurs\\Connexion.cshtml",
-              "RelativeToolTip": "ProjetFinal\\Views\\Utilisateurs\\Connexion.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T13:49:56.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ConnexionViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ViewModels\\ConnexionViewModel.cs",
-              "RelativeDocumentMoniker": "ProjetFinal\\ViewModels\\ConnexionViewModel.cs",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ViewModels\\ConnexionViewModel.cs",
-              "RelativeToolTip": "ProjetFinal\\ViewModels\\ConnexionViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "DocumentIndex": 15,
+              "Title": "VueStatsCategorie.cs",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\VueStatsCategorie.cs",
+              "RelativeDocumentMoniker": "ProjetFinal\\Models\\VueStatsCategorie.cs",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\VueStatsCategorie.cs",
+              "RelativeToolTip": "ProjetFinal\\Models\\VueStatsCategorie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:19:45.676Z"
+              "WhenOpened": "2025-05-21T16:35:46.031Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Program.cs",
+              "RelativeToolTip": "ProjetFinal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:37:04.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "V1_2__VueFonctions.sql ",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_2__VueFonctions.sql",
+              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_2__VueFonctions.sql",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_2__VueFonctions.sql",
+              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_2__VueFonctions.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-05T13:21:33.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "V1_4__ProcedureInteressante.sql ",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_4__ProcedureInteressante.sql",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_4__ProcedureInteressante.sql",
               "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_4__ProcedureInteressante.sql",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_4__ProcedureInteressante.sql",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_4__ProcedureInteressante.sql",
               "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_4__ProcedureInteressante.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-05-21T14:31:36.466Z",
@@ -319,36 +421,249 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Procedure.cshtml",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Procedure.cshtml",
-              "RelativeDocumentMoniker": "ProjetFinal\\Views\\Voitures\\Procedure.cshtml",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Procedure.cshtml",
-              "RelativeToolTip": "ProjetFinal\\Views\\Voitures\\Procedure.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T22:17:41.186Z",
+              "DocumentIndex": 28,
+              "Title": "V1_5__Images.sql ",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_5__Images.sql",
+              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_5__Images.sql",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_5__Images.sql",
+              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_5__Images.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-12T14:21:44.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "VueStatsCategorie.cs",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\VueStatsCategorie.cs",
-              "RelativeDocumentMoniker": "ProjetFinal\\Models\\VueStatsCategorie.cs",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\VueStatsCategorie.cs",
-              "RelativeToolTip": "ProjetFinal\\Models\\VueStatsCategorie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T16:35:46.031Z"
+              "DocumentIndex": 22,
+              "Title": "Inscription.cshtml",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Utilisateurs\\Inscription.cshtml",
+              "RelativeDocumentMoniker": "ProjetFinal\\Views\\Utilisateurs\\Inscription.cshtml",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Utilisateurs\\Inscription.cshtml",
+              "RelativeToolTip": "ProjetFinal\\Views\\Utilisateurs\\Inscription.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwAEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T16:40:46.068Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
+              "Title": "VwRechercherVoiture.cs",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\VwRechercherVoiture.cs",
+              "RelativeDocumentMoniker": "ProjetFinal\\Models\\VwRechercherVoiture.cs",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\VwRechercherVoiture.cs",
+              "RelativeToolTip": "ProjetFinal\\Models\\VwRechercherVoiture.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:15:11.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "V1_7__VueFonctions2.sql ",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_7__VueFonctions2.sql",
+              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_7__VueFonctions2.sql",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_7__VueFonctions2.sql",
+              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_7__VueFonctions2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-22T18:08:18.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Fonctionnalite.cs",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\Fonctionnalite.cs",
+              "RelativeDocumentMoniker": "ProjetFinal\\Models\\Fonctionnalite.cs",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\Fonctionnalite.cs",
+              "RelativeToolTip": "ProjetFinal\\Models\\Fonctionnalite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:19:24.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\Voiture.cs",
+              "RelativeDocumentMoniker": "ProjetFinal\\Models\\Voiture.cs",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\Voiture.cs",
+              "RelativeToolTip": "ProjetFinal\\Models\\Voiture.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwCIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:45:34.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetFinal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjetFinal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T13:28:34.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjetFinal\\Views\\Voitures\\Details.cshtml",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Details.cshtml",
+              "RelativeToolTip": "ProjetFinal\\Views\\Voitures\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T17:21:24.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "InitialCreate.sql ",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\InitialCreate.sql",
+              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\InitialCreate.sql",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\InitialCreate.sql",
+              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\InitialCreate.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-05T12:52:53.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Connexion.cshtml",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Utilisateurs\\Connexion.cshtml",
+              "RelativeDocumentMoniker": "ProjetFinal\\Views\\Utilisateurs\\Connexion.cshtml",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Utilisateurs\\Connexion.cshtml",
+              "RelativeToolTip": "ProjetFinal\\Views\\Utilisateurs\\Connexion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T13:49:56.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "V1_0__Tables.sql ",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_0__Tables.sql",
+              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_0__Tables.sql",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_0__Tables.sql",
+              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_0__Tables.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-05T12:53:49.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjetFinal\\Views\\Voitures\\Create.cshtml",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Create.cshtml",
+              "RelativeToolTip": "ProjetFinal\\Views\\Voitures\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T17:21:02.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjetFinal\\Views\\Voitures\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Voitures\\Delete.cshtml",
+              "RelativeToolTip": "ProjetFinal\\Views\\Voitures\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T17:21:17.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "V1_3__Utilisateur.sql ",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_3__Utilisateur.sql",
+              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_3__Utilisateur.sql",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_3__Utilisateur.sql",
+              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_3__Utilisateur.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-21T16:01:03.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "V1_1__InsertionDonnees.sql ",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_1__InsertionDonnees.sql",
+              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_1__InsertionDonnees.sql",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_1__InsertionDonnees.sql",
+              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_1__InsertionDonnees.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-21T16:02:35.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "ProjetFinal\\Models\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\Utilisateur.cs",
+              "RelativeToolTip": "ProjetFinal\\Models\\Utilisateur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:07:34.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Commandes.txt",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Commandes.txt",
+              "RelativeDocumentMoniker": "ProjetFinal\\Commandes.txt",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Commandes.txt",
+              "RelativeToolTip": "ProjetFinal\\Commandes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-13T12:03:00.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjetFinal\\appsettings.json",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\appsettings.json",
+              "RelativeToolTip": "ProjetFinal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T13:17:04.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ConnexionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ViewModels\\ConnexionViewModel.cs",
+              "RelativeDocumentMoniker": "ProjetFinal\\ViewModels\\ConnexionViewModel.cs",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ViewModels\\ConnexionViewModel.cs",
+              "RelativeToolTip": "ProjetFinal\\ViewModels\\ConnexionViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:19:45.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "PhotoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ViewModels\\PhotoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ViewModels\\PhotoViewModel.cs",
               "RelativeDocumentMoniker": "ProjetFinal\\ViewModels\\PhotoViewModel.cs",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ViewModels\\PhotoViewModel.cs",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ViewModels\\PhotoViewModel.cs",
               "RelativeToolTip": "ProjetFinal\\ViewModels\\PhotoViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -356,44 +671,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "V1_6__Index.sql",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_6__Index.sql",
-              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_6__Index.sql",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_6__Index.sql",
-              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_6__Index.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-13T13:36:40.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "V1_3__Utilisateur.sql",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_3__Utilisateur.sql",
-              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_3__Utilisateur.sql",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_3__Utilisateur.sql",
-              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_3__Utilisateur.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-21T16:01:03.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "V1_2__VueFonctions.sql",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_2__VueFonctions.sql",
-              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_2__VueFonctions.sql",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_2__VueFonctions.sql",
-              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_2__VueFonctions.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-05T13:21:33.808Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 36,
               "Title": "InscriptionViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ViewModels\\InscriptionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ViewModels\\InscriptionViewModel.cs",
               "RelativeDocumentMoniker": "ProjetFinal\\ViewModels\\InscriptionViewModel.cs",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ViewModels\\InscriptionViewModel.cs",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ViewModels\\InscriptionViewModel.cs",
               "RelativeToolTip": "ProjetFinal\\ViewModels\\InscriptionViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -401,69 +683,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FonctionnaliteVersion.cs",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\FonctionnaliteVersion.cs",
-              "RelativeDocumentMoniker": "ProjetFinal\\Models\\FonctionnaliteVersion.cs",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\FonctionnaliteVersion.cs",
-              "RelativeToolTip": "ProjetFinal\\Models\\FonctionnaliteVersion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T16:19:21.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Fonctionnalite.cs",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\Fonctionnalite.cs",
-              "RelativeDocumentMoniker": "ProjetFinal\\Models\\Fonctionnalite.cs",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Models\\Fonctionnalite.cs",
-              "RelativeToolTip": "ProjetFinal\\Models\\Fonctionnalite.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T16:19:24.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "V1_0__Tables.sql",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_0__Tables.sql",
-              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_0__Tables.sql",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_0__Tables.sql",
-              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_0__Tables.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-05T12:53:49.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "V1_1__InsertionDonnees.sql",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_1__InsertionDonnees.sql",
-              "RelativeDocumentMoniker": "ProjetFinal\\Sql_Scripts\\V1_1__InsertionDonnees.sql",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Sql_Scripts\\V1_1__InsertionDonnees.sql",
-              "RelativeToolTip": "ProjetFinal\\Sql_Scripts\\V1_1__InsertionDonnees.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-21T16:02:35.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ProjetFinal\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ProjetFinal\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T13:28:34.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 38,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "ProjetFinal\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "ProjetFinal\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -471,11 +695,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 37,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ProjetFinal\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_6235923\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "ProjetFinal\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

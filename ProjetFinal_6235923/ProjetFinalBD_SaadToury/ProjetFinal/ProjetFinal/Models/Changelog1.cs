@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ProjetFinal__2037266.Models;
 
-[Table("changelog")]
+[Table("changelog", Schema = "Configurationn")]
 public partial class Changelog1
 {
     [Key]

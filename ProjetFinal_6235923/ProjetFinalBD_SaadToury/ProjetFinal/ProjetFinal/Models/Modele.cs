@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ProjetFinal__2037266.Models;
 
-[Table("Modele", Schema = "Configuration")]
+[Table("Modele", Schema = "Configurationn")]
 public partial class Modele
 {
     [Key]
@@ -22,5 +22,5 @@ public partial class Modele
     public DateOnly AnneeLancement { get; set; }
 
     [InverseProperty("Modele")]
-    public virtual ICollection<Version> Versions { get; set; } = new List<Version>();
+    public virtual ICollection<Versio> Versios { get; set; } = new List<Versio>();
 }

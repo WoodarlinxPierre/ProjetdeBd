@@ -1,15 +1,21 @@
-ï»¿
-USE ConcessionaireMercedes;
-GO
-
-CREATE PROCEDURE Voitures.usp_RechercherVoitures
+ALTER PROCEDURE Voitures.usp_RechercherVoitures
     @Carburant NVARCHAR(30) = NULL,
     @Disponible BIT = NULL,
     @PrixMax DECIMAL(18, 2) = NULL,
     @Categorie NVARCHAR(30) = NULL
 AS
 BEGIN
-    SELECT V.VoitureID, M.Nom AS Modele, V.Prix, V.Kilometrage, Moteur.TypeCarburant
+    SELECT 
+        V.VoitureID, 
+        M.Nom AS Modele, 
+        V.Prix, 
+        V.Kilometrage, 
+        Moteur.TypeCarburant,
+        CASE 
+            WHEN Ver.NbChevaux >= 400 THEN 'Sportive'
+            WHEN M.TypeCarosserie LIKE '%électrique%' THEN 'Électrique'
+            ELSE 'Familiale'
+        END AS Categorie
     FROM Voitures.Voiture V
     JOIN Configurationn.Versio Ver ON V.VersioID = Ver.VersioID
     JOIN Configurationn.Modele M ON Ver.ModeleID = M.ModeleID
@@ -22,10 +28,9 @@ BEGIN
           (
             CASE 
                 WHEN Ver.NbChevaux >= 400 THEN 'Sportive'
-                WHEN M.TypeCarosserie LIKE '%Ã©lectrique%' THEN 'Ã‰lectrique'
+                WHEN M.TypeCarosserie LIKE '%électrique%' THEN 'Électrique'
                 ELSE 'Familiale'
             END = @Categorie
           )
       );
-END;
-GO
+END

@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 namespace ProjetFinal__2037266.Models;
 
 [Table("Voiture", Schema = "Voitures")]
-[Index("VersionId", Name = "IX_Voiture_VersionID")]
+[Index("VersioId", Name = "IX_Voiture_VersioID")]
 public partial class Voiture
 {
     [Key]
@@ -24,13 +24,13 @@ public partial class Voiture
 
     public bool Disponible { get; set; }
 
-    [Column("VersionID")]
-    public int VersionId { get; set; }
+    [Column("VersioID")]
+    public int VersioId { get; set; }
 
     [InverseProperty("Voiture")]
     public virtual ICollection<ImageVoiture> ImageVoitures { get; set; } = new List<ImageVoiture>();
 
-    [ForeignKey("VersionId")]
+    [ForeignKey("VersioId")]
     [InverseProperty("Voitures")]
-    public virtual Version Version { get; set; } = null!;
+    public virtual Versio Versio { get; set; } = null!;
 }

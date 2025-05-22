@@ -34,7 +34,7 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern : "{controller=Voitures}/{action=Index}/{id?}"
+    pattern : "{controller=Utilisateurs}/{action=Connexion}/{id?}"
     );
 
 app.MapRazorPages();

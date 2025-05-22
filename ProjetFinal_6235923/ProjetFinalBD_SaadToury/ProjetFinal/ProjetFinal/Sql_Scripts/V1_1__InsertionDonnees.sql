@@ -2,7 +2,7 @@ USE ConcessionaireMercedes;
 
 GO
 -- Insertion des anciens modèles
-INSERT INTO Configuration.Modele (Nom, TypeCarosserie, AnneeLancement)
+INSERT INTO Configurationn.Modele (Nom, TypeCarosserie, AnneeLancement)
 VALUES 
 ('Classe A', 'Berline', '2018-01-01'),
 ('Classe C', 'Berline', '2020-01-01'),
@@ -18,8 +18,8 @@ VALUES
 ('EQC', 'SUV Électrique', '2022-01-01');
 GO
 
--- Insertion des anciennes versions
-INSERT INTO Configuration.Version (Nom, NbChevaux, BoiteVitesse, AnneeLancement, Couple, CapReservoir, ModeleID)
+-- Insertion des anciennes Versio
+INSERT INTO Configurationn.Versio (Nom, NbChevaux, BoiteVitesse, AnneeLancement, Couple, CapReservoir, ModeleID)
 VALUES 
 ('AMG A35', 306, 'Automatique', '2018-01-01', 400, 50, 1),
 ('AMG C63', 510, 'Automatique', '2020-01-01', 700, 66, 2),
@@ -27,7 +27,7 @@ VALUES
 ('E300', 258, 'Automatique', '2019-01-01', 370, 66, 4),
 ('S500', 435, 'Automatique', '2022-01-01', 520, 80, 5),
 
--- Insertion des nouvelles versions
+-- Insertion des nouvelles Versio
 ('A180', 136, 'Manuelle', '2023-01-01', 200, 50, 6),
 ('B200', 163, 'Automatique', '2022-01-01', 250, 60, 7),
 ('GLA 250', 224, 'Automatique', '2023-01-01', 350, 50, 8),
@@ -36,7 +36,7 @@ VALUES
 GO
 
 -- Insertion des anciennes fonctionnalités
-INSERT INTO Configuration.Fonctionnalite (Nom)
+INSERT INTO Configurationn.Fonctionnalite (Nom)
 VALUES 
 ('Toit panoramique'),
 ('Sièges chauffants'),
@@ -62,10 +62,10 @@ VALUES
 ('Alarme anti-vol');
 GO
 
--- Insertion des anciennes associations de fonctionnalités avec les versions
-INSERT INTO Configuration.FonctionnaliteVersion (EstOptionel, FonctionnaliteID, VersionID)
+-- Insertion des anciennes associations de fonctionnalités avec les Versio
+INSERT INTO Configurationn.FonctionnaliteVersio (EstOptionel, FonctionnaliteID, VersioID)
 VALUES 
--- Version 1 (AMG A35)
+-- Versio 1 (AMG A35)
 (0, 1, 1), -- Toit panoramique
 (1, 2, 1), -- Sièges chauffants (optionnel)
 (0, 3, 1), -- Système audio haut de gamme
@@ -77,7 +77,7 @@ VALUES
 (0, 9, 1), -- Pack AMG Performance
 (1, 10, 1), -- Peinture métallisée (optionnel)
 
--- Version 2 (AMG C63)
+-- Versio 2 (AMG C63)
 (0, 1, 2), -- Toit panoramique
 (1, 2, 2), -- Sièges chauffants (optionnel)
 (0, 3, 2), -- Système audio haut de gamme
@@ -89,7 +89,7 @@ VALUES
 (0, 9, 2), -- Pack AMG Performance
 (1, 10, 2), -- Peinture métallisée (optionnel)
 
--- Version 3 (G63 AMG)
+-- Versio 3 (G63 AMG)
 (0, 1, 3), -- Toit panoramique
 (1, 2, 3), -- Sièges chauffants (optionnel)
 (0, 3, 3), -- Système audio haut de gamme
@@ -101,7 +101,7 @@ VALUES
 (0, 9, 3), -- Pack AMG Performance
 (1, 10, 3), -- Peinture métallisée (optionnel)
 
--- Version 4 (E300)
+-- Versio 4 (E300)
 (0, 1, 4), -- Toit panoramique
 (1, 2, 4), -- Sièges chauffants (optionnel)
 (0, 3, 4), -- Système audio haut de gamme
@@ -113,7 +113,7 @@ VALUES
 (0, 9, 4), -- Pack AMG Performance
 (1, 10, 4), -- Peinture métallisée (optionnel)
 
--- Version 5 (S500)
+-- Versio 5 (S500)
 (0, 1, 5), -- Toit panoramique
 (1, 2, 5), -- Sièges chauffants (optionnel)
 (0, 3, 5), -- Système audio haut de gamme
@@ -125,7 +125,7 @@ VALUES
 (0, 9, 5), -- Pack AMG Performance
 (1, 10, 5), -- Peinture métallisée (optionnel)
 
--- Version 6 (A180)
+-- Versio 6 (A180)
 (0, 1, 6), -- Toit panoramique
 (1, 2, 6), -- Sièges chauffants (optionnel)
 (0, 3, 6), -- Système audio haut de gamme
@@ -137,7 +137,7 @@ VALUES
 (0, 9, 6), -- Pack AMG Performance
 (1, 10, 6), -- Peinture métallisée (optionnel)
 
--- Version 7 (B200)
+-- Versio 7 (B200)
 (0, 1, 7), -- Toit panoramique
 (1, 2, 7), -- Sièges chauffants (optionnel)
 (0, 3, 7), -- Système audio haut de gamme
@@ -149,7 +149,7 @@ VALUES
 (0, 9, 7), -- Pack AMG Performance
 (1, 10, 7), -- Peinture métallisée (optionnel)
 
--- Version 8 (GLA 250)
+-- Versio 8 (GLA 250)
 (0, 1, 8), -- Toit panoramique
 (1, 2, 8), -- Sièges chauffants (optionnel)
 (0, 3, 8), -- Système audio haut de gamme
@@ -161,7 +161,7 @@ VALUES
 (0, 9, 8), -- Pack AMG Performance
 (1, 10, 8), -- Peinture métallisée (optionnel)
 
--- Version 9 (GLC 300)
+-- Versio 9 (GLC 300)
 (0, 1, 9), -- Toit panoramique
 (1, 2, 9), -- Sièges chauffants (optionnel)
 (0, 3, 9), -- Système audio haut de gamme
@@ -173,7 +173,7 @@ VALUES
 (0, 9, 9), -- Pack AMG Performance
 (1, 10, 9), -- Peinture métallisée (optionnel)
 
--- Version 10 (EQC 400)
+-- Versio 10 (EQC 400)
 (0, 1, 10), -- Toit panoramique
 (1, 2, 10), -- Sièges chauffants (optionnel)
 (0, 3, 10), -- Système audio haut de gamme
@@ -187,7 +187,7 @@ VALUES
 GO
 
 -- Insertion des anciens moteurs
-INSERT INTO Configuration.Moteur (TypeCarburant, NbCylindre, EstTurbocharger, EstSupercharger, VersionID)
+INSERT INTO Configurationn.Moteur (TypeCarburant, NbCylindre, EstTurbocharger, EstSupercharger, VersioID)
 VALUES 
 ('Essence', 4, 1, 0, 1), -- AMG A35
 ('Essence', 8, 1, 0, 2), -- AMG C63
@@ -204,7 +204,7 @@ VALUES
 GO
 
 -- Insertion des anciennes voitures disponibles
-INSERT INTO Voitures.Voiture (Couleur, Prix, Kilometrage, Disponible, VersionID)
+INSERT INTO Voitures.Voiture (Couleur, Prix, Kilometrage, Disponible, VersioID)
 VALUES 
 ('Noir', 45000.00, 15000, 1, 1), -- AMG A35
 ('Blanc', 85000.00, 5000, 1, 2), -- AMG C63

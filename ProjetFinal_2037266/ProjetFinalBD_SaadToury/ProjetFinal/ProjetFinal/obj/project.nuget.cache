@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Urxxyx0feX8=",
+  "dgSpecHash": "NWg2FofPHqk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\6235923\\Downloads\\ProjetFinal_2037266\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ProjetFinal__2037266.csproj",
+  "projectFilePath": "C:\\Users\\6235923\\Downloads\\ProjetdeBd\\ProjetFinal_2037266\\ProjetFinalBD_SaadToury\\ProjetFinal\\ProjetFinal\\ProjetFinal__2037266.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\6235923\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\6235923\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

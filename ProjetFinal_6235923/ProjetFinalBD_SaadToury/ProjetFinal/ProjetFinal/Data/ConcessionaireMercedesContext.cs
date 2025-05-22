@@ -20,7 +20,7 @@ public partial class ConcessionaireMercedesContext : DbContext
 
     public virtual DbSet<Fonctionnalite> Fonctionnalites { get; set; }
 
-    public virtual DbSet<FonctionnaliteVersion> FonctionnaliteVersions { get; set; }
+    public virtual DbSet<FonctionnaliteVersio> FonctionnaliteVersios { get; set; }
 
     public virtual DbSet<ImageVoiture> ImageVoitures { get; set; }
 
@@ -30,11 +30,13 @@ public partial class ConcessionaireMercedesContext : DbContext
 
     public virtual DbSet<Utilisateur> Utilisateurs { get; set; }
 
-    public virtual DbSet<Models.Version> Versions { get; set; }
+    public virtual DbSet<Versio> Versios { get; set; }
 
     public virtual DbSet<Voiture> Voitures { get; set; }
 
     public virtual DbSet<VueStatsCategorie> VueStatsCategories { get; set; }
+
+    public virtual DbSet<VwRechercherVoiture> VwRechercherVoitures { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         => optionsBuilder.UseSqlServer("Name=ConcessionaireMercedes");
@@ -43,20 +45,20 @@ public partial class ConcessionaireMercedesContext : DbContext
     {
         modelBuilder.Entity<Changelog>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__changelo__3213E83FE5A82D78");
+            entity.HasKey(e => e.Id).HasName("PK__changelo__3213E83FE807FA68");
 
             entity.Property(e => e.InstalledOn).HasDefaultValueSql("(getdate())");
         });
 
-        modelBuilder.Entity<FonctionnaliteVersion>(entity =>
+        modelBuilder.Entity<FonctionnaliteVersio>(entity =>
         {
-            entity.HasOne(d => d.Fonctionnalite).WithMany(p => p.FonctionnaliteVersions)
+            entity.HasOne(d => d.Fonctionnalite).WithMany(p => p.FonctionnaliteVersios)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK_FonctionnaliteVersion_Fonctionnalite");
+                .HasConstraintName("FK_FonctionnaliteVersio_Fonctionnalite");
 
-            entity.HasOne(d => d.Version).WithMany(p => p.FonctionnaliteVersions)
+            entity.HasOne(d => d.Versio).WithMany(p => p.FonctionnaliteVersios)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK_FonctionnaliteVersion_Version");
+                .HasConstraintName("FK_FonctionnaliteVersio_Versio");
         });
 
         modelBuilder.Entity<ImageVoiture>(entity =>
@@ -68,9 +70,9 @@ public partial class ConcessionaireMercedesContext : DbContext
 
         modelBuilder.Entity<Moteur>(entity =>
         {
-            entity.HasOne(d => d.Version).WithMany(p => p.Moteurs)
+            entity.HasOne(d => d.Versio).WithMany(p => p.Moteurs)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK_Moteur_Version");
+                .HasConstraintName("FK_Moteur_Versio");
         });
 
         modelBuilder.Entity<Utilisateur>(entity =>
@@ -78,21 +80,26 @@ public partial class ConcessionaireMercedesContext : DbContext
             entity.HasKey(e => e.UtilisateurId).HasName("PK_Utilisateur_UtilisateurID");
         });
 
-        modelBuilder.Entity<Models.Version>(entity =>
+        modelBuilder.Entity<Versio>(entity =>
         {
-            entity.HasOne(d => d.Modele).WithMany(p => p.Versions)
+            entity.HasOne(d => d.Modele).WithMany(p => p.Versios)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK_Version_Modele");
+                .HasConstraintName("FK_Versio_Modele");
         });
 
         modelBuilder.Entity<Voiture>(entity =>
         {
-            entity.HasOne(d => d.Version).WithMany(p => p.Voitures).HasConstraintName("FK_Voiture_Version");
+            entity.HasOne(d => d.Versio).WithMany(p => p.Voitures).HasConstraintName("FK_Voiture_Versio");
         });
 
         modelBuilder.Entity<VueStatsCategorie>(entity =>
         {
             entity.ToView("Vue_Stats_Categorie", "Voitures");
+        });
+
+        modelBuilder.Entity<VwRechercherVoiture>(entity =>
+        {
+            entity.ToView("Vw_RechercherVoitures", "Voitures");
         });
 
         OnModelCreatingPartial(modelBuilder);

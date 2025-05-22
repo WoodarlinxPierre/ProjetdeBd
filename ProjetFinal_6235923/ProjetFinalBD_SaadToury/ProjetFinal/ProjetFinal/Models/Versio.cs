@@ -6,12 +6,12 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ProjetFinal__2037266.Models;
 
-[Table("Version", Schema = "Configuration")]
-public partial class Version
+[Table("Versio", Schema = "Configurationn")]
+public partial class Versio
 {
     [Key]
-    [Column("VersionID")]
-    public int VersionId { get; set; }
+    [Column("VersioID")]
+    public int VersioId { get; set; }
 
     [StringLength(20)]
     public string Nom { get; set; } = null!;
@@ -30,16 +30,16 @@ public partial class Version
     [Column("ModeleID")]
     public int ModeleId { get; set; }
 
-    [InverseProperty("Version")]
-    public virtual ICollection<FonctionnaliteVersion> FonctionnaliteVersions { get; set; } = new List<FonctionnaliteVersion>();
+    [InverseProperty("Versio")]
+    public virtual ICollection<FonctionnaliteVersio> FonctionnaliteVersios { get; set; } = new List<FonctionnaliteVersio>();
 
     [ForeignKey("ModeleId")]
-    [InverseProperty("Versions")]
+    [InverseProperty("Versios")]
     public virtual Modele Modele { get; set; } = null!;
 
-    [InverseProperty("Version")]
+    [InverseProperty("Versio")]
     public virtual ICollection<Moteur> Moteurs { get; set; } = new List<Moteur>();
 
-    [InverseProperty("Version")]
+    [InverseProperty("Versio")]
     public virtual ICollection<Voiture> Voitures { get; set; } = new List<Voiture>();
 }

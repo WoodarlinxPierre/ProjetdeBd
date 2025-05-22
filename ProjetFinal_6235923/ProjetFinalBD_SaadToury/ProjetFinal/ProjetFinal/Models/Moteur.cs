@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ProjetFinal__2037266.Models;
 
-[Table("Moteur", Schema = "Configuration")]
+[Table("Moteur", Schema = "Configurationn")]
 public partial class Moteur
 {
     [Key]
@@ -22,10 +22,10 @@ public partial class Moteur
 
     public bool EstSupercharger { get; set; }
 
-    [Column("VersionID")]
-    public int VersionId { get; set; }
+    [Column("VersioID")]
+    public int VersioId { get; set; }
 
-    [ForeignKey("VersionId")]
+    [ForeignKey("VersioId")]
     [InverseProperty("Moteurs")]
-    public virtual Version Version { get; set; } = null!;
+    public virtual Versio Versio { get; set; } = null!;
 }

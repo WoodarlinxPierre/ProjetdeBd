@@ -50,7 +50,7 @@ namespace ProjetFinal__2037266.Controllers
             }
 
             var voiture = await _context.Voitures
-                .Include(v => v.Version)
+                .Include(v => v.Versio)
                 .FirstOrDefaultAsync(m => m.VoitureId == id);
             if (voiture == null)
             {
@@ -75,7 +75,7 @@ namespace ProjetFinal__2037266.Controllers
         // GET: Voitures/Create
         public IActionResult Create()
         {
-            ViewData["VersionId"] = new SelectList(_context.Versions, "VersionId", "VersionId");
+            ViewData["VersioId"] = new SelectList(_context.Versios, "VersioId", "VersioId");
             return View();
         }
 
@@ -84,7 +84,7 @@ namespace ProjetFinal__2037266.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("VoitureId,Couleur,Prix,Kilometrage,Disponible,VersionId")] Voiture voiture)
+        public async Task<IActionResult> Create([Bind("VoitureId,Couleur,Prix,Kilometrage,Disponible,VersioId")] Voiture voiture)
         {
             if (ModelState.IsValid)
             {
@@ -92,7 +92,7 @@ namespace ProjetFinal__2037266.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["VersionId"] = new SelectList(_context.Versions, "VersionId", "VersionId", voiture.VersionId);
+            ViewData["VersioId"] = new SelectList(_context.Versios, "VersioId", "VersioId", voiture.VersioId);
             return View(voiture);
         }
 
@@ -104,12 +104,15 @@ namespace ProjetFinal__2037266.Controllers
                 return NotFound();
             }
 
-            var voiture = await _context.Voitures.FindAsync(id);
+            var voiture = _context.Voitures
+     .Include(v => v.Versio)
+     .FirstOrDefault(v => v.VoitureId == id);
+
             if (voiture == null)
             {
                 return NotFound();
             }
-            ViewData["VersionId"] = new SelectList(_context.Versions, "VersionId", "VersionId", voiture.VersionId);
+            ViewData["VersioId"] = new SelectList(_context.Versios, "VersioId", "Nom", voiture.VersioId);
             return View(voiture);
         }
 
@@ -118,12 +121,13 @@ namespace ProjetFinal__2037266.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("VoitureId,Couleur,Prix,Kilometrage,Disponible,VersionId")] Voiture voiture)
+        public async Task<IActionResult> Edit(int id, [Bind("VoitureId,Couleur,Prix,Kilometrage,Disponible,VersioId")] Voiture voiture)
         {
             if (id != voiture.VoitureId)
             {
                 return NotFound();
             }
+            ModelState.Remove("Versio");
 
             if (ModelState.IsValid)
             {
@@ -145,7 +149,7 @@ namespace ProjetFinal__2037266.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["VersionId"] = new SelectList(_context.Versions, "VersionId", "VersionId", voiture.VersionId);
+            ViewData["VersioId"] = new SelectList(_context.Versios, "VersioId", "Nom", voiture.VersioId);
             return View(voiture);
         }
 
@@ -158,7 +162,7 @@ namespace ProjetFinal__2037266.Controllers
             }
 
             var voiture = await _context.Voitures
-                .Include(v => v.Version)
+                .Include(v => v.Versio)
                 .FirstOrDefaultAsync(m => m.VoitureId == id);
             if (voiture == null)
             {
@@ -200,7 +204,17 @@ namespace ProjetFinal__2037266.Controllers
             new SqlParameter("@Categorie", string.IsNullOrWhiteSpace(categorie) ? (object)DBNull.Value : categorie)
         };
 
-            var result = await _context.Set<VoitureProcedureResult>().FromSqlRaw(query, parameters.ToArray()).ToListAsync();
+            var voitures = await _context.VwRechercherVoitures.FromSqlRaw(query, parameters.ToArray()).ToListAsync();
+            var result = voitures.Select(v => new VoitureProcedureResult
+            {
+                Modele = v.Modele,
+                Prix = v.Prix,
+                Kilometrage = v.Kilometrage,
+                TypeCarburant = v.TypeCarburant,
+                Disponible = v.Disponible,
+                Categorie = v.Categorie
+            }).ToList();
+
 
             return View(result);
         }

@@ -88,7 +88,7 @@ namespace ProjetFinal__2037266.Controllers
             ClaimsPrincipal principal = new ClaimsPrincipal(claimsIdentity);
             await HttpContext.SignInAsync(principal);
 
-            return RedirectToAction("Index", "Conducteurs");
+            return RedirectToAction("Index", "Voitures");
         }
 
         public async Task<IActionResult> Deconnexion()

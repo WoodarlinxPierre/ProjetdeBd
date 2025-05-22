@@ -11,6 +11,6 @@ GO
 -- Création d'un index non-clustered sur la colonne 'VersionID' de la table 'Voiture'
 -- Cet index est utile pour les jointures fréquentes entre les voitures et leurs versions, 
 -- notamment dans les vues ou procédures qui regroupent des informations détaillées.
-CREATE NONCLUSTERED INDEX IX_Voiture_VersionID
-ON Voitures.Voiture (VersionID);
+CREATE NONCLUSTERED INDEX IX_Voiture_VersioID
+ON Voitures.Voiture (VersioID);
 GO
